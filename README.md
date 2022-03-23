@@ -2,9 +2,9 @@
 # Mycropython ADC
 
 
-Alumno: Nombre y apellido
+Alumno: Provvidenza Ramiro
 
-Curso: Curso
+Curso: 7mo 1ra AVC COM A
 
 Materia: Representacion Visual y Frontal de Datos
 
